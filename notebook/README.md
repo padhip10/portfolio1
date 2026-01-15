@@ -1,28 +1,27 @@
-```markdown
-# Notebooks
+# Notebook
 
 ## Overview
-This folder contains Jupyter Notebook files used for practice, experimentation, and concept demonstration during the course.
+This folder contains Jupyter Notebook files created during the coursework.  
+The notebooks are used for practicing Python programming concepts and understanding topics covered in lectures and lab sessions.
 
 ## Contents
-- Python programming exercises
-- Examples from lectures and labs
-- Small experiments to understand key concepts
-- Code snippets and outputs
+- Python practice exercises
+- Lecture and lab examples
+- Step-by-step problem-solving notebooks
+- Code demonstrations with outputs
 
 ## Purpose
-The notebooks are used to:
-- Practice Python concepts interactively
-- Test ideas before implementing them in projects
-- Visualize outputs and results
+The purpose of this folder is to:
+- Support learning through hands-on practice
+- Experiment with Python concepts
+- Test and understand code before applying it in the main project
 
-## Requirements
+## Tools & Technologies
 - Python 3
-- Jupyter Notebook or JupyterLab
+- Jupyter Notebook / JupyterLab
 
 ## Notes
-These notebooks support learning and experimentation and may not represent final or optimized solutions.
+The notebooks are intended for learning and experimentation and may include unfinished or non-optimized solutions.
 
 ## Author
 Adhip Pathak
-
