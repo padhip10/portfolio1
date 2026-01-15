@@ -1,19 +1,19 @@
 # Project
 
 ## Overview
-This folder contains the main project developed as part of the coursework.  
-The project is a complete Python application that can be executed from the command line.
+The major project made for completing the course work is inside this folder.
+The project can be executed from the command line and represents a full Python script.
 
 ## Features
-- Written in Python with meaningful and structured code
-- Contains more than 100 lines of functional code
-- Accepts command-line arguments
-- Reads data from an external file
-- Demonstrates real-world problem-solving
+-  Using Python and providing well-structured and meaningful code
+- Has more than 100 lines of functional code
+- Takes command line arguments
+- Extract information from an external source file
+- A realistic example of problem-solving
 
 ## How to Run
 1. Open a terminal in this folder
-2. Run the program using:
+2. To run the program:
    ```bash
    python3 task1.py or
    python3 task2.py
